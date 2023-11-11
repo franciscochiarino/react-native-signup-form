@@ -1,0 +1,8 @@
+{
+  "name": "react-native-signup-form",
+  "version": "0.0.5",
+  "description": "React Native Signup and Login form template",
+  "repository": "git@github.com:franciscochiarino/react-native-signup-form.git",
+  "author": "Francisco Chiarino <francisco.chiarino@gmail.com>",
+  "license": "MIT"
+}
